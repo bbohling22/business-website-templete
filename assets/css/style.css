@@ -84,7 +84,7 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
-
+/* renamed items to sidebar in html and reduced excessive amount of selector editors*/
 .sidebar {
     margin-bottom: 32px;
     color: #ffffff;
@@ -100,7 +100,7 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
-
+/* renamed items to section in html and reduced excessive amount of selector editors*/
 .section {
     margin-bottom: 20px;
     padding: 50px;
@@ -118,7 +118,7 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
+/* changed html to footer and changed from class selector to element selector here*/
 footer {
     padding: 30px;
     clear: both;
